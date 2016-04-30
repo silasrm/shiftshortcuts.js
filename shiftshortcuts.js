@@ -1,5 +1,5 @@
 /**
- * Add support do shortcuts prefixed with Shift
+ * Add support to shortcuts prefixed with Shift
  *
  * Why shift?
  * R. Because control, alt/option and meta/windows/command keys is used 
