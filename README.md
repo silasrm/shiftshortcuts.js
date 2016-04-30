@@ -1,6 +1,6 @@
 # shiftshortcuts.js
 
-Add support do shortcuts prefixed with Shift.
+Add support to shortcuts prefixed with Shift.
 
 __Why shift?__ _Because control, alt/option and meta/windows/command keys is used by default operational systems shortcuts (Windows, OSX, Linux)._
 
